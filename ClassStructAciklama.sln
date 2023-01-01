@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama1", "Uygulama1\Uygulama1.csproj", "{973D548A-A8CF-43BD-83A6-1F961CA6608B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama2", "Uygulama2\Uygulama2.csproj", "{DED39F6E-B5AB-4535-AC7E-5633143BDC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama3", "Uygulama3\Uygulama3.csproj", "{D45E091D-E68C-4B50-8BC2-30D9F5962798}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ekstra", "Ekstra", "{9888B0D3-9058-444B-AE97-BF416AB0AEFE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Cizim.png = ..\..\..\Desktop\Cizim.png
+		..\..\..\Documents\YouTube\Projects\07-ClassStruct\Classes vs Structs.pptx = ..\..\..\Documents\YouTube\Projects\07-ClassStruct\Classes vs Structs.pptx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973D548A-A8CF-43BD-83A6-1F961CA6608B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973D548A-A8CF-43BD-83A6-1F961CA6608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973D548A-A8CF-43BD-83A6-1F961CA6608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973D548A-A8CF-43BD-83A6-1F961CA6608B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED39F6E-B5AB-4535-AC7E-5633143BDC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED39F6E-B5AB-4535-AC7E-5633143BDC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED39F6E-B5AB-4535-AC7E-5633143BDC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED39F6E-B5AB-4535-AC7E-5633143BDC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45E091D-E68C-4B50-8BC2-30D9F5962798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E091D-E68C-4B50-8BC2-30D9F5962798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E091D-E68C-4B50-8BC2-30D9F5962798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E091D-E68C-4B50-8BC2-30D9F5962798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADBFB518-ADCA-498F-B093-D49483F5FD43}
+	EndGlobalSection
+EndGlobal
